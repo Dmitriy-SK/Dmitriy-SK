@@ -14,6 +14,11 @@ About me:
 I am 16 years old and a student studying web development. Interested in web development. Actively working on expanding my skills in Python. Open to collaboration and new opportunities.
 
 
+🔗 I am learning web development on my own
+
+📋 Started studying at Yandex Practicum lessons
+
+
 ---
 
 ![Python](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)

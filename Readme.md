@@ -9,6 +9,12 @@ Hi, my name is Dmitry
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+About me:
+
+I am 16 years old and a student studying web development. Interested in web development. Actively working on expanding my skills in Python. Open to collaboration and new opportunities.
+
+
+---
 
 ![Python](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,3 +30,10 @@ Hi, my name is Dmitry
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
  
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dmitriy-SK&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriy-SK&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
